@@ -1,0 +1,3 @@
+salt>=3001
+requests
+zeep

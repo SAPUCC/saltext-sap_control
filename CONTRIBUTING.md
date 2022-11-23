@@ -10,7 +10,7 @@ We love your input! We want to make contributing to this project as easy and tra
 ## We develop with Github
 We use Github to host code, to track issues and feature requests, as well as accept pull requests.
 
-## We use [Github-Flow](https://githubflow.github.io/), so all 
+## We use [Github-Flow](https://githubflow.github.io/), so all
 code changes happen through pull requests.
 Pull requests are the best way to propose changes to the codebase. We actively welcome your pull requests:
 
@@ -50,4 +50,3 @@ These are two good bug report examples:
 - What you expected would happen
 - What actually happens
 - Notes (possibly including why you think this might be happening, or stuff you tried that didn't work)
-
