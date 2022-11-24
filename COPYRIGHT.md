@@ -1,5 +1,5 @@
-<one line to give the program's name and a brief idea of what it does.>
-Copyright (C) <year>  <name of author>
+SaltStack extension for the SAP Host Agent
+Copyright (C) 2022 SAP UCC Magdeburg
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
